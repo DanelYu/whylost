@@ -1,4 +1,4 @@
-### Hey 👋, I'm [whylost]()!
+### Hey 👋, I'm [whylost](https://github.com/whylost)!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=whylost&show_icons=true&theme=tokyonight)
 
