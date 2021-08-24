@@ -1,6 +1,8 @@
 ### Hey 👋, I'm [whylost](https://github.com/whylost)!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=whylost&show_icons=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=whylost&show_icons=true&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whylost&show_icons=true&theme=buefy&layout=compact)
 
 <!--
 **whylost/whylost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
