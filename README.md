@@ -1,4 +1,5 @@
 ### Hey 👋, I'm [whylost](https://github.com/whylost)!
+![](https://visitor-badge.glitch.me/badge?page_id=whylost)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=whylost&show_icons=true&theme=buefy)
 
