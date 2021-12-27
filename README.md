@@ -1,9 +1,11 @@
 ### Hey 👋, I'm whylost!
-![](https://visitor-badge.glitch.me/badge?page_id=whylost)
-
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=whylost&show_icons=true&theme=radical)  
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whylost&show_icons=true&theme=radical&layout=compact)  -->
-
-
-![whylost's contribution graph](https://activity-graph.herokuapp.com/graph?username=whylost&theme=redical)
-
+<p>
+`<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=whylost"/>
+</p>
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=whylost&show_icons=true&layout=compact&hide=stars&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whylost&layout=compact&count_private=true&hide=html" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whylost" alt="mystreak"/> -->
+  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=whylost&row=1&column=6&margin-w=8&no-frame=true&no-bg=true" />
+</div>
+<img width="1500em" src="https://metrics.lecoq.io/whylost?template=classic&isocalendar=1&followup=1&lines=1&discussions=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&followup.sections=repositories&config.timezone=Asia%2FShanghai">
