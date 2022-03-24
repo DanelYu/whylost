@@ -1,4 +1,4 @@
-### Hey 👋, I'm whylost!
+### Hey 👋
 <p>
 `<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=whylost"/>
 </p>
